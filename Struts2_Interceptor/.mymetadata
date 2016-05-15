@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Struts2_Interceptor"
+  id="myeclipse.1462800538042"
+  context-root="/Struts2_Interceptor"
+  j2ee-spec="5.0"
+  archive="Struts2_Interceptor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
